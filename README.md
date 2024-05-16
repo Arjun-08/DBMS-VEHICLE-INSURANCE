@@ -25,7 +25,7 @@ The aim of this project is to provide a comprehensive understanding and practica
 
 ## Usage
 
-Refer to the provided documents and scripts to understand the project requirements, view the data models, and analyze the SQL queries.
+Refer to the provided documents and scripts to understand the project requirements, view the data models, and analyze the SQL queries. For better understanding, please refer to the report i.e., "final PDF.pdf" file in this repository.
 
 
 ## Contact
